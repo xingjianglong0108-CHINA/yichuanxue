@@ -1,0 +1,5 @@
+{
+  "name": "Leukemia Genetics Query System",
+  "description": "A professional medical query system for leukemia genetics, analyzing clinical significance based on SCCCG protocols and international databases.",
+  "requestFramePermissions": []
+}
